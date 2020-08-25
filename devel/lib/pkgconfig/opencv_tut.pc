@@ -1,4 +1,4 @@
-prefix=/home/janak/final_ws/devel
+prefix=/home/janak/final_ws_2/devel
 
 Name: opencv_tut
 Description: Description of opencv_tut

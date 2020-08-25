@@ -1,4 +1,4 @@
-prefix=/home/janak/final_ws/devel
+prefix=/home/janak/final_ws_2/devel
 
 Name: hexbot
 Description: Description of hexbot

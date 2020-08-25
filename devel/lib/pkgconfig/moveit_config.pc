@@ -1,4 +1,4 @@
-prefix=/home/janak/final_ws/devel
+prefix=/home/janak/final_ws_2/devel
 
 Name: moveit_config
 Description: Description of moveit_config
